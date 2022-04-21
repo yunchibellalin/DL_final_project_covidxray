@@ -4,4 +4,4 @@
 
 [X-ray dataset shared link](https://uab365-my.sharepoint.com/:f:/g/personal/ycl2_uab_edu/EisD5x9tXrdKuEhjiaAqteMBnv2gBGIVZ_abMVoKm1QNkw?e=zJfNIG)
 
-[clinical_data_label](https://uab365-my.sharepoint.com/:x:/g/personal/ycl2_uab_edu/ESodzcV66XJPtBFECJ-Qtm0By53rJ8G71-6PzB4CrK2dKQ?e=B78fEd)
+[clinical_labels](https://uab365-my.sharepoint.com/:x:/g/personal/ycl2_uab_edu/ESodzcV66XJPtBFECJ-Qtm0By53rJ8G71-6PzB4CrK2dKQ?e=B78fEd)
